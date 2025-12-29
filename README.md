@@ -25,8 +25,8 @@ Soy un apasionado por los datos y la tecnología en constante aprendizaje. Actua
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ### 📫 Conectemos
 
-- [LinkedIn]: proximamente
-- [Email](proximamente)
+- LinkedIn: proximamente
+- Email: proximamente
 
 ---
 ⭐️ *¡Gracias por visitar mi perfil!*
