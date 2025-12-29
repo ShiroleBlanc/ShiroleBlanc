@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShiroleBlanc
+- 👋 Hi, I’m Fabian Armijo
 - 👀 I’m interested in learning programming skills to be able to work
 - 🌱 I’m currently learning: html, css and javascript
 - 💞️ I’m looking to collaborate on ...
