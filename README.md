@@ -8,15 +8,15 @@ Soy un apasionado por los datos y la tecnología en constante aprendizaje. Actua
 
 ### 🔭 En qué estoy trabajando ahora
 
-- **Proyecto de Predicción de Churn (Telco):** Estoy construyendo un modelo para predecir el abandono de clientes en una empresa de telecomunicaciones.
-  - *Objetivo:* Identificar patrones de comportamiento para retener clientes.
-  - *Herramientas:* Python, Pandas, Scikit-learn, etc.
+- **(poner proyecto aqui):**
+  
 
 ### 🌱 Qué estoy aprendiendo
 
 - Limpieza y visualización de datos.
 - Modelos de clasificación supervisada.
 - Python avanzado
+- Java spring boot con react
 
 ### 🛠️ Tech Stack
 
